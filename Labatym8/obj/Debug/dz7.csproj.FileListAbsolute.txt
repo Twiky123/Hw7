@@ -1,0 +1,7 @@
+C:\Users\tviks\source\repos\dz7\dz7\bin\Debug\dz7.exe.config
+C:\Users\tviks\source\repos\dz7\dz7\bin\Debug\dz7.exe
+C:\Users\tviks\source\repos\dz7\dz7\bin\Debug\dz7.pdb
+C:\Users\tviks\source\repos\dz7\dz7\obj\Debug\dz7.csproj.AssemblyReference.cache
+C:\Users\tviks\source\repos\dz7\dz7\obj\Debug\dz7.csproj.CoreCompileInputs.cache
+C:\Users\tviks\source\repos\dz7\dz7\obj\Debug\dz7.exe
+C:\Users\tviks\source\repos\dz7\dz7\obj\Debug\dz7.pdb
